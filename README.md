@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deadshot-07
+- 👋 Hi, I’m Shreyansh
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on mentioned above.
